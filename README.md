@@ -1,2 +1,2 @@
 # zonor-town
-Wed By. Dev Zonor Town
+Web By. Dev Zonor Town
